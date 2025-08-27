@@ -36,7 +36,8 @@ O mercado para **Desenvolvedores Web Júnior** em São Paulo demonstra:
 ---
 
 ## 📥 Download do Relatório
-📄 Acesse o PDF completo clicando [aqui](./Relatorio_Analise_Vagas.pdf).
+[📄 Relatório de Análise de Vagas 2025](https://github.com/Rodrigo5antos/analise-vagas-devweb-2025/raw/main/Relatorio_Analise_Vagas.pdf.pdf)
+
 
 ---
 
